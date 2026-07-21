@@ -33,3 +33,11 @@ This repository contains my Codeathon Assessment project completed using Microso
 **Jumana Mohammed Ali**
 
 Aspiring Data Analyst
+
+## Dashboard Preview
+
+### Dashboard
+![Dashboard](Screenshots/piechart.png)
+
+### Line Chart
+![Line Chart](Screenshots/linechart.png)
