@@ -34,10 +34,11 @@ This repository contains my Codeathon Assessment project completed using Microso
 
 Aspiring Data Analyst
 
-## Dashboard Preview
 
-### Dashboard
-![Dashboard](Screenshots/piechart.png)
+## Visualizations Preview
 
-### Line Chart
+### Pie Chart – Count of Order ID by Region
+![Pie Chart](Screenshots/piechart.png)
+
+### Line Chart – Sum of Profit by Year, Quarter, Month, and Day
 ![Line Chart](Screenshots/linechart.png)
