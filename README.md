@@ -38,7 +38,7 @@ Aspiring Data Analyst
 ## Visualizations Preview
 
 ### Pie Chart – Count of Order ID by Region
-![Pie Chart](Screenshots/pie chart.png)
+![Pie Chart](Screenshots/pie-chart.png)
 
 ### Line Chart – Sum of Profit by Year, Quarter, Month, and Day
-![Line Chart](Screenshots/line chart.png)
+![Line Chart](Screenshots/line-chart.png)
